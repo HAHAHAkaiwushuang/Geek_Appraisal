@@ -4,9 +4,9 @@
 int main() 
 {
 	double y=0;
-	double a,b,c,x;
-	printf("a=");
-	scanf("%lf",&a);
+	double a=1,b,c,x;
+	printf("a=1");
+//	scanf("%lf",&a);
 	printf("    x             y\n");
 	b=a;
 	c=b+1.0;
